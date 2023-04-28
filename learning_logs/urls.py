@@ -13,4 +13,6 @@ urlpatterns = [
     path("topics/", views.topics, name="topics"),
     # Concrete Topic Page
     path("topics/<int:topic_id>/", views.topic, name="topic"),
+    # New Topic Page
+    path("new_topic/", views.new_topic, name="new_topic"),
 ]
