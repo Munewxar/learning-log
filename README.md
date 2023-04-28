@@ -1,2 +1,2 @@
 # learning-log
-Web-app for logging while study. Dveloped with Django
+Web-app for logging while study.
