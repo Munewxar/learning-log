@@ -13,7 +13,7 @@ Enries page:
 ![Entries page](https://github.com/Munewxar/learning-log/blob/master/screenshots/entries.png)
 
 Edit Entry page:
-![Edit Entry page]https://github.com/Munewxar/learning-log/blob/master/screenshots/edit_entry.png)
+![Edit Entry page](https://github.com/Munewxar/learning-log/blob/master/screenshots/edit_entry.png)
 
 Register page:
 ![Register page](https://github.com/Munewxar/learning-log/blob/master/screenshots/register.png)
